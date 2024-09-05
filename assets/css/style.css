@@ -130,7 +130,7 @@ hr {
     width: 90vw;
     margin-bottom: 20px;
     /* Make the square image into a circle */
-    border-radius: 50px;
+    border-radius: 50%;
     max-width: 300px;
     max-height: 300px;
 }
