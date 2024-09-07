@@ -25,6 +25,7 @@ h1, h2, h3 {
     color: #252525;
 }
 
+/* section heading with utility class */
 .hidden-heading {
     display: none;
 }
