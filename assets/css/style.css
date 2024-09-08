@@ -216,7 +216,7 @@ main {
 
 /* Signup section */
 #signup {
-    background: url("../images/signup-image.webp");
+    background-image: url("../images/signup-image.webp");
     background-size: cover;
     background-position: 75%;
     padding: 20px 10% 0 10%;
@@ -232,7 +232,7 @@ main {
 
 #signup-form > h2 {
     color: #fafafa;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 /* Test input */
