@@ -21,7 +21,8 @@ Contained within this site are features which have been added to for more readab
   ![navigation bar snipe](image-1.png)
 
 - Home page image
-  - b
+
+  - The front page contains an image of runners which is intended to capture the mind of the users.
 
 ![home-page-imaged](image-2.png)
 
@@ -33,19 +34,20 @@ Contained within this site are features which have been added to for more readab
 
 - Meetup Times section
 
-  - This session tells the user on schedule in which the runnning activity actually takes place.
+  - This session tells the user on meetup schedule in which the runnning exercise would actually takes place.
+  - Also the meetup location and the time.
 
 ![meetup-time](image-4.png)
 
 - Footer seesion
 
-  - the
+  - Contained within the footer session are the social medial links which create more avenue for the users to keep connected. This social media links will open to a new tab for easy navigation.
 
 ![footer](image-5.png)
 
 - Gallery
 
-  - 
+  - Within the gallery are the pictures which tells the users more about the organization looks like and what they do.
 
 ![gallery](image-6.png)
 
@@ -57,17 +59,48 @@ Contained within this site are features which have been added to for more readab
 
 - Testing
 
+  - I tested this page works well in different browsers: Google Chrome, Microsoft Edge, and Moxila Fire Fox.
+
+  - I confirmed that the project is responsive and functions well on different sreen sizes. 
+
   - Validation test was carried out on Home, Gallery and Sign up HTML using HTML validator and CSS using css validator.
+
+  - I confirmed that the sign up page check and test was carried out, the users first name, last name are required and only email address is required in the email input field.
 
 - Validator Testing
 
   - HTML
 
-    - No error return after validation when passing through the official 
+    - No error return after validation when passing through the official <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fadeniyiolusola.github.io%2Flove-running%2F">W3C validator</a>
 
   - CSS
 
-    - No error return after validation when passing through the official
+    - No error return after validation when passing through the official <a href="https://jigsaw.w3.org/css-validator/validator">(Jigsaw) validator</a>
 
+- Bugs
+
+  - No bug is left unfixed
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a  detailed ribbon display to indicate the successful deployment.
+  - The live link can be found here - https://adeniyiolusola.github.io/love-running/
+
+## Credits
+
+  - This project was created as one of the requirements forming portfolio project 1 essential in my learning process at Code Institute in become a Full Stack Developer. All ideas and concepts are referenced from Code Institute LM. 
+
+### Content 
+
+  - Texts for this project are taken Love Running project tutorial in code institute LM.
+  - Form validation was implementation instruction was followed step by step in Code Institute LM.
+  - The icons in the footer were taken from <a href="https://fontawesome.com/">Font Awesome</a>
+
+### Media
+
+  - The images used were all taken from Love Running project tutorial in code institute LM.
 
 
